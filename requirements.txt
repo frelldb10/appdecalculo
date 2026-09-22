@@ -1,5 +1,9 @@
 streamlit
-numpy
-matplotlib
+streamlit-webrtc
+av
+opencv-python-headless
+mediapipe
 scipy
 sympy
+matplotlib
+numpy
